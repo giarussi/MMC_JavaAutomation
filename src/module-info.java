@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gweniarussi
+ *
+ */
+module mmcclassjavaproject {
+}
